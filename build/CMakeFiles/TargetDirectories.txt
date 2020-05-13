@@ -1,0 +1,3 @@
+/home/amel/Documents/M2_Image/SyntheseImage/Projet-MasterCraft-BEN_HAMOUDA-DURAND/build/CMakeFiles/rebuild_cache.dir
+/home/amel/Documents/M2_Image/SyntheseImage/Projet-MasterCraft-BEN_HAMOUDA-DURAND/build/CMakeFiles/edit_cache.dir
+/home/amel/Documents/M2_Image/SyntheseImage/Projet-MasterCraft-BEN_HAMOUDA-DURAND/build/CMakeFiles/Mastercraft.dir
